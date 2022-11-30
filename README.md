@@ -5,3 +5,5 @@ This project (TechTrends) is about an online website used as a news sharing plat
 
 
 The initial starter code for the project is [here](https://github.com/udacity/nd064_course_1/tree/main/project/techtrends).
+
+[![TechTrends - Package with Docker](https://github.com/Ezecc/project-4/actions/workflows/techtrends-dockerhub.yml/badge.svg)](https://github.com/Ezecc/project-4/actions/workflows/techtrends-dockerhub.yml)
