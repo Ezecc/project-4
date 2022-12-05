@@ -4,7 +4,7 @@ description: techtrends using kubernetes/helm
 keywords:
 - python
 - techtrends 
-version: 3.7.0
+version: 1.0.0
 maintainers:
 - name: Chijioke
   email: cc.eze90@gmail.com
