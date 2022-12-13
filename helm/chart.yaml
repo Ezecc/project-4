@@ -1,10 +1,10 @@
 apiVersion: v1
 name: techtrends
-description: techtrends using kubernetes/helm 
+description: techtrends using kubernetes/helm
 keywords:
-- python
-- techtrends 
-version: 1.0.0
+  - python
+  - techtrends
+version: 3.7.0
 maintainers:
-- name: Chijioke
-  email: cc.eze90@gmail.com
+  - name: Chijioke
+    email: cc.eze90@gmail.com
