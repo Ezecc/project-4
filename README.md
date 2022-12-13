@@ -10,4 +10,4 @@ The initial starter code for the project is [here](https://github.com/udacity/nd
 
 ## Project Directories and Files
 
-![](screenshots/project_files&26folders.png)
+![](screenshots/project_files&folders.png)
